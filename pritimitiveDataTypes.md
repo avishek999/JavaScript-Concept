@@ -213,7 +213,6 @@ Check or change types of variables.
 
 ---
 
-This guide provides a quick overview of JavaScript operators and their common uses!
 
 
 
